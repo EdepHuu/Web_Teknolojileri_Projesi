@@ -7,10 +7,15 @@ Kendimi ve yaşadığım şehri tanıtan bir web sitesi geliştirmektir.
 PROJEDE KULLANILACAK TEKNOLOJİLER:
 
 &HTML
+
 &CSS
+
 &JAVASCRİPT
+
 &PHP
+
 &BOOTSTRAP
+
 
 PROJE İÇERİĞİ:
 
