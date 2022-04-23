@@ -1,9 +1,11 @@
 # Web_Teknolojileri_Projesi
 
 PROJE AMACI:
+
 Kendimi ve yaşadığım şehri tanıtan bir web sitesi geliştirmektir.
 
 PROJEDE KULLANILACAK TEKNOLOJİLER:
+
 &HTML
 &CSS
 &JAVASCRİPT
@@ -11,6 +13,7 @@ PROJEDE KULLANILACAK TEKNOLOJİLER:
 &BOOTSTRAP
 
 PROJE İÇERİĞİ:
+
 Genel bilgilerin bulunduğu ve diğer sitelere gidebilmeye yarayan bir anasayfa yapmayı planlıyorum.
 
 Ben kimim? Sayfası adı altında kendimden bahsetmeyi, hobilerimi, uğraştığım şeyleri ve bunlarla alakalı fotoğrafları sayfaya yerleştirmek.
