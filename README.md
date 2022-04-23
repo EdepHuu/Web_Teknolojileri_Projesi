@@ -1,6 +1,7 @@
 # Web_Teknolojileri_Projesi
 
 PROJE AMACI:
+
 Kendimi ve yaşadığım şehri tanıtan bir web sitesi geliştirmektir.
 
 PROJEDE KULLANILACAK TEKNOLOJİLER:
