@@ -1,0 +1,31 @@
+#iletisimbody {
+    background: url(img/Iletisimarkaplan.jpg);
+    background-size: cover;
+    height: auto;
+}
+
+#footeryazi {
+    color: coral;
+}
+
+#iletisimsec {
+    margin-top: 10%;
+}
+
+footer {
+    height: auto;
+    width: 100%;
+    background-color: white;
+}
+
+#icon1 {
+    padding-right: 2%;
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: coral;
+}
+
+.Link {
+    display: inline-block;
+}
