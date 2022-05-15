@@ -7,6 +7,13 @@ footer {
     background-color: rgba(2, 2, 155, 0.3)
 }
 
+#icon1 {
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: coral;
+}
+
 .card-body {
     background-color: white;
 }
@@ -316,6 +323,10 @@ h4 {
 #col-ia {
     padding: 1%;
     width: 45%;
+    margin-left: 3%;
+}
+
+.searchBox {
     margin-left: 3%;
 }
 
