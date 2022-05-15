@@ -2,6 +2,10 @@
     margin: 3%;
 }
 
+#iletisimdonusbody {
+    background-color: aqua;
+}
+
 #iletisimbody {
     background: url(img/Iletisimarkaplan.jpg);
     background-size: cover;

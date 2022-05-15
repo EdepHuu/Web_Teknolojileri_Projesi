@@ -14,7 +14,7 @@
 
 </head>
 
-<body id="iletisimbody">
+<body id="iletisimdonusbody">
 
     <!--Menu Kismi-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
@@ -60,7 +60,7 @@
     <!-- iletisim -->
     <section class="p-5 text-center">
         <div class="container">
-            <h2 class="mb-3 font-weight-bold" id="iletisimkontrolbaslik">İLETİŞİM KONTROL</h2><i class="fas fa-code" id="iconn"></i>
+            <h2 class="mb-3 font-weight-bold" id="iletisimkontrolbaslik">İLETİSİM KONTROL</h2><i class="fas fa-code" id="iconn"></i>
             <hr class="cizgi">
         </div>
     </section>
